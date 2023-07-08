@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+GitHub: https://www.linkedin.com/in/jawad-azizi-609729243/<br>
+Email: jawad.azizi1398@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawadAzizi&show_icons=true&theme=radical)
 
 
