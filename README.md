@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jawad Azizi, a web developer
-##### I like to work with Typescript and Sveltekit
+#####you can contact me by email or linkedin.
 Linkedin: https://www.linkedin.com/in/jawad-azizi-609729243/<br>
 Email: jawad.azizi1398@gmail.com
 
