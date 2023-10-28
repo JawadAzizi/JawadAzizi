@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jawad Azizi, a web developer
-##### You can contact me by email or LinkedIn.
+##### contact me :
 Linkedin: https://www.linkedin.com/in/jawad-azizi-609729243/<br>
 Email: jawad.azizi1398@gmail.com
 
