@@ -3,7 +3,7 @@
 Linkedin: https://www.linkedin.com/in/jawad-azizi-609729243/<br>
 Email: jawad.azizi1398@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawadAzizi&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JawadAzizi&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JawadAzizi&layout=compact&theme=radical)
 
